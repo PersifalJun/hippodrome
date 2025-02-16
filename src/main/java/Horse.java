@@ -6,6 +6,7 @@ public class Horse {
     private final double speed;
     private double distance;
 
+
     public Horse(String name, double speed, double distance) {
         if (isNull(name)) {
             throw new IllegalArgumentException("Name cannot be null.");
