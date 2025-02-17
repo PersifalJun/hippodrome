@@ -1,0 +1,27 @@
+[DEBUG] 2025-02-17 23:15:32.279 [main] Horse - Создание Horse, имя Bucephalus, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.282 [main] Horse - Создание Horse, имя Ace of Spades, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.282 [main] Horse - Создание Horse, имя Zephyr, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.282 [main] Horse - Создание Horse, имя Blaze, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.282 [main] Horse - Создание Horse, имя Lobster, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.283 [main] Horse - Создание Horse, имя Pegasus, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.283 [main] Horse - Создание Horse, имя Cherry, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.284 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[INFO ] 2025-02-17 23:15:32.284 [main] Main - Начало скачек. Количество участников: 7
+[INFO ] 2025-02-17 23:15:33.113 [main] Main - Окончание скачек. Победитель: Pegasus
+[DEBUG] 2025-02-17 23:15:38.651 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[ERROR] 2025-02-17 23:15:38.661 [main] Horse - Distance is negative
+[DEBUG] 2025-02-17 23:15:38.663 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:38.664 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:39.311 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[ERROR] 2025-02-17 23:15:39.323 [main] Horse - Name is null
+[ERROR] 2025-02-17 23:15:39.324 [main] Horse - Speed is negative
+[ERROR] 2025-02-17 23:15:39.353 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.358 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.359 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.360 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.362 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.363 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.364 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.365 [main] Horse - Name is blank
+[DEBUG] 2025-02-17 23:15:39.366 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:39.370 [main] Horse - Создание Horse, имя Pony, скорость [2.8]

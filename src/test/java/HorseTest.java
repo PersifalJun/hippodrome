@@ -14,7 +14,7 @@ class HorseTest {
 
 
     @Test
-    void testConstructorThrowsExceptionOnFirstParam() {
+    void horseTestConstructorThrowsExceptionOnFirstParam() {
         Throwable exception = assertThrows(
                 IllegalArgumentException.class,
                 () -> new Horse(null,1) // Передаем null первым параметром
@@ -35,7 +35,7 @@ class HorseTest {
             "\\ 1, 3",
 
     })
-    void testConstructorThrowsExceptionOnParameters() {
+    void horseTestConstructorThrowsExceptionOnParameters() {
         Throwable exception = assertThrows(
                 IllegalArgumentException.class,
                 () -> new Horse("",1) // Передаем null первым параметром
@@ -45,7 +45,7 @@ class HorseTest {
     }
 
     @Test
-    void testConstructorThrowsExceptionOnSecondParam() {
+    void horseTestConstructorThrowsExceptionOnSecondParam() {
         Throwable exception = assertThrows(
                 IllegalArgumentException.class,
                 () -> new Horse("s",-1.0)
@@ -92,7 +92,7 @@ class HorseTest {
     void moveWithVerifyParameters() {
         try(MockedStatic<Horse> mockHorseStatic = Mockito.mockStatic(Horse.class)){
             new Horse("Pony",1).move();
-            mockHorseStatic.verify(() -> Horse.getRandomDouble(2.0d,9.0d));
+            mockHorseStatic.verify(() -> Horse.getRandomDouble(0.2d,0.9d));
 
         }
         catch(Exception e){

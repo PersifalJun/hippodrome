@@ -1,0 +1,268 @@
+[INFO ] 2025-02-17 22:50:33.941 [main] Main - Начало скачек. Количество участников: 7
+[INFO ] 2025-02-17 22:50:34.760 [main] Main - Окончание скачек. Победитель: Cherry
+[ERROR] 2025-02-17 22:50:41.046 [main] Horse - Distance is negative
+[ERROR] 2025-02-17 22:50:41.650 [main] Horse - Name is null
+[ERROR] 2025-02-17 22:50:41.652 [main] Horse - Speed is negative
+[ERROR] 2025-02-17 22:50:41.677 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:50:41.682 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:50:41.683 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:50:41.684 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:50:41.685 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:50:41.692 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:50:41.693 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:50:41.694 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:51:04.199 [main] Hippodrome - Hippodrome: Horses list is null
+[ERROR] 2025-02-17 22:51:04.217 [main] Hippodrome - Hippodrome: Horses list is empty
+[INFO ] 2025-02-17 22:54:49.262 [main] Main - Начало скачек. Количество участников: 7
+[INFO ] 2025-02-17 22:54:50.090 [main] Main - Окончание скачек. Победитель: Lobster
+[ERROR] 2025-02-17 22:54:55.162 [main] Horse - Distance is negative
+[ERROR] 2025-02-17 22:54:55.772 [main] Horse - Name is null
+[ERROR] 2025-02-17 22:54:55.773 [main] Horse - Speed is negative
+[ERROR] 2025-02-17 22:54:55.802 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:54:55.807 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:54:55.808 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:54:55.809 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:54:55.810 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:54:55.810 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:54:55.811 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:54:55.811 [main] Horse - Name is blank
+[INFO ] 2025-02-17 22:56:00.240 [main] Main - Начало скачек. Количество участников: 7
+[INFO ] 2025-02-17 22:56:01.074 [main] Main - Окончание скачек. Победитель: Blaze
+[ERROR] 2025-02-17 22:56:14.598 [main] Horse - Distance is negative
+[ERROR] 2025-02-17 22:56:15.187 [main] Horse - Name is null
+[ERROR] 2025-02-17 22:56:15.188 [main] Horse - Speed is negative
+[ERROR] 2025-02-17 22:56:15.213 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:56:15.219 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:56:15.220 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:56:15.221 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:56:15.222 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:56:15.222 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:56:15.223 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:56:15.224 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:56:21.257 [main] Hippodrome - Hippodrome: Horses list is null
+[ERROR] 2025-02-17 22:56:21.265 [main] Hippodrome - Hippodrome: Horses list is empty
+[DEBUG] 2025-02-17 22:57:43.722 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[ERROR] 2025-02-17 22:57:43.736 [main] Horse - Distance is negative
+[DEBUG] 2025-02-17 22:57:43.738 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:43.739 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:44.349 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[ERROR] 2025-02-17 22:57:44.360 [main] Horse - Name is null
+[ERROR] 2025-02-17 22:57:44.361 [main] Horse - Speed is negative
+[ERROR] 2025-02-17 22:57:44.387 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:57:44.395 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:57:44.396 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:57:44.397 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:57:44.398 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:57:44.399 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:57:44.400 [main] Horse - Name is blank
+[ERROR] 2025-02-17 22:57:44.401 [main] Horse - Name is blank
+[DEBUG] 2025-02-17 22:57:44.402 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:44.406 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:52.014 [main] Horse - Создание Horse, имя Bucephalus, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:52.016 [main] Horse - Создание Horse, имя Ace of Spades, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:52.016 [main] Horse - Создание Horse, имя Zephyr, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:52.016 [main] Horse - Создание Horse, имя Blaze, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:52.016 [main] Horse - Создание Horse, имя Lobster, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:52.016 [main] Horse - Создание Horse, имя Pegasus, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:52.017 [main] Horse - Создание Horse, имя Cherry, скорость [2.8]
+[DEBUG] 2025-02-17 22:57:52.017 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[INFO ] 2025-02-17 22:57:52.018 [main] Main - Начало скачек. Количество участников: 7
+[INFO ] 2025-02-17 22:57:52.832 [main] Main - Окончание скачек. Победитель: Cherry
+[ERROR] 2025-02-17 22:57:59.577 [main] Hippodrome - Hippodrome: Horses list is null
+[ERROR] 2025-02-17 22:57:59.584 [main] Hippodrome - Hippodrome: Horses list is empty
+[DEBUG] 2025-02-17 22:58:00.169 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[DEBUG] 2025-02-17 22:58:00.212 [main] Horse - Создание Horse, имя Pony number 0, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 1, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 2, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 3, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 4, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 5, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 6, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 7, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 8, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 9, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 10, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 11, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 12, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 13, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 14, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.213 [main] Horse - Создание Horse, имя Pony number 15, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 16, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 17, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 18, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 19, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 20, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 21, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 22, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 23, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 24, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 25, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 26, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 27, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 28, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 29, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.214 [main] Horse - Создание Horse, имя Pony number 30, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.215 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[DEBUG] 2025-02-17 22:58:00.216 [main] Horse - Создание Horse, имя Pony number 0, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.216 [main] Horse - Создание Horse, имя Pony number 1, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.216 [main] Horse - Создание Horse, имя Pony number 2, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.216 [main] Horse - Создание Horse, имя Pony number 3, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.216 [main] Horse - Создание Horse, имя Pony number 4, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.216 [main] Horse - Создание Horse, имя Pony number 5, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.216 [main] Horse - Создание Horse, имя Pony number 6, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.216 [main] Horse - Создание Horse, имя Pony number 7, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.216 [main] Horse - Создание Horse, имя Pony number 8, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 9, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 10, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 11, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 12, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 13, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 14, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 15, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 16, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 17, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 18, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 19, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 20, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 21, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 22, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 23, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 24, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.217 [main] Horse - Создание Horse, имя Pony number 25, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.218 [main] Horse - Создание Horse, имя Pony number 26, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.218 [main] Horse - Создание Horse, имя Pony number 27, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.218 [main] Horse - Создание Horse, имя Pony number 28, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.218 [main] Horse - Создание Horse, имя Pony number 29, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.218 [main] Horse - Создание Horse, имя Pony number 30, скорость [2.8]
+[DEBUG] 2025-02-17 22:58:00.218 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[DEBUG] 2025-02-17 23:12:24.021 [main] Horse - Создание Horse, имя Bucephalus, скорость [2.8]
+[DEBUG] 2025-02-17 23:12:24.023 [main] Horse - Создание Horse, имя Ace of Spades, скорость [2.8]
+[DEBUG] 2025-02-17 23:12:24.023 [main] Horse - Создание Horse, имя Zephyr, скорость [2.8]
+[DEBUG] 2025-02-17 23:12:24.023 [main] Horse - Создание Horse, имя Blaze, скорость [2.8]
+[DEBUG] 2025-02-17 23:12:24.023 [main] Horse - Создание Horse, имя Lobster, скорость [2.8]
+[DEBUG] 2025-02-17 23:12:24.023 [main] Horse - Создание Horse, имя Pegasus, скорость [2.8]
+[DEBUG] 2025-02-17 23:12:24.023 [main] Horse - Создание Horse, имя Cherry, скорость [2.8]
+[DEBUG] 2025-02-17 23:12:24.024 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[INFO ] 2025-02-17 23:12:24.024 [main] Main - Начало скачек. Количество участников: 7
+[INFO ] 2025-02-17 23:12:24.836 [main] Main - Окончание скачек. Победитель: Pegasus
+[DEBUG] 2025-02-17 23:15:32.279 [main] Horse - Создание Horse, имя Bucephalus, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.282 [main] Horse - Создание Horse, имя Ace of Spades, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.282 [main] Horse - Создание Horse, имя Zephyr, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.282 [main] Horse - Создание Horse, имя Blaze, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.282 [main] Horse - Создание Horse, имя Lobster, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.283 [main] Horse - Создание Horse, имя Pegasus, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.283 [main] Horse - Создание Horse, имя Cherry, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:32.284 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[INFO ] 2025-02-17 23:15:32.284 [main] Main - Начало скачек. Количество участников: 7
+[INFO ] 2025-02-17 23:15:33.113 [main] Main - Окончание скачек. Победитель: Pegasus
+[DEBUG] 2025-02-17 23:15:38.651 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[ERROR] 2025-02-17 23:15:38.661 [main] Horse - Distance is negative
+[DEBUG] 2025-02-17 23:15:38.663 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:38.664 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:39.311 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[ERROR] 2025-02-17 23:15:39.323 [main] Horse - Name is null
+[ERROR] 2025-02-17 23:15:39.324 [main] Horse - Speed is negative
+[ERROR] 2025-02-17 23:15:39.353 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.358 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.359 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.360 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.362 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.363 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.364 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:15:39.365 [main] Horse - Name is blank
+[DEBUG] 2025-02-17 23:15:39.366 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:15:39.370 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:16:58.353 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[ERROR] 2025-02-17 23:16:58.364 [main] Horse - Distance is negative
+[DEBUG] 2025-02-17 23:16:58.366 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:16:58.366 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:16:58.929 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[ERROR] 2025-02-17 23:16:58.940 [main] Horse - Name is null
+[ERROR] 2025-02-17 23:16:58.942 [main] Horse - Speed is negative
+[ERROR] 2025-02-17 23:16:58.965 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:16:58.971 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:16:58.978 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:16:58.980 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:16:58.981 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:16:58.982 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:16:58.983 [main] Horse - Name is blank
+[ERROR] 2025-02-17 23:16:58.984 [main] Horse - Name is blank
+[DEBUG] 2025-02-17 23:16:58.985 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[DEBUG] 2025-02-17 23:16:58.989 [main] Horse - Создание Horse, имя Pony, скорость [2.8]
+[ERROR] 2025-02-17 23:17:02.450 [main] Hippodrome - Hippodrome: Horses list is null
+[ERROR] 2025-02-17 23:17:02.461 [main] Hippodrome - Hippodrome: Horses list is empty
+[DEBUG] 2025-02-17 23:17:03.053 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[DEBUG] 2025-02-17 23:17:03.100 [main] Horse - Создание Horse, имя Pony number 0, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.100 [main] Horse - Создание Horse, имя Pony number 1, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 2, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 3, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 4, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 5, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 6, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 7, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 8, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 9, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 10, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 11, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 12, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.101 [main] Horse - Создание Horse, имя Pony number 13, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 14, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 15, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 16, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 17, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 18, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 19, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 20, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 21, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 22, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 23, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.102 [main] Horse - Создание Horse, имя Pony number 24, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.103 [main] Horse - Создание Horse, имя Pony number 25, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.103 [main] Horse - Создание Horse, имя Pony number 26, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.103 [main] Horse - Создание Horse, имя Pony number 27, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.103 [main] Horse - Создание Horse, имя Pony number 28, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.103 [main] Horse - Создание Horse, имя Pony number 29, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.103 [main] Horse - Создание Horse, имя Pony number 30, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.103 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[DEBUG] 2025-02-17 23:17:03.105 [main] Horse - Создание Horse, имя Pony number 0, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.105 [main] Horse - Создание Horse, имя Pony number 1, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.105 [main] Horse - Создание Horse, имя Pony number 2, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.105 [main] Horse - Создание Horse, имя Pony number 3, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.105 [main] Horse - Создание Horse, имя Pony number 4, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.105 [main] Horse - Создание Horse, имя Pony number 5, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.105 [main] Horse - Создание Horse, имя Pony number 6, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.105 [main] Horse - Создание Horse, имя Pony number 7, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.105 [main] Horse - Создание Horse, имя Pony number 8, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.106 [main] Horse - Создание Horse, имя Pony number 9, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.106 [main] Horse - Создание Horse, имя Pony number 10, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.106 [main] Horse - Создание Horse, имя Pony number 11, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.106 [main] Horse - Создание Horse, имя Pony number 12, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.106 [main] Horse - Создание Horse, имя Pony number 13, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.106 [main] Horse - Создание Horse, имя Pony number 14, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.106 [main] Horse - Создание Horse, имя Pony number 15, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.106 [main] Horse - Создание Horse, имя Pony number 16, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.106 [main] Horse - Создание Horse, имя Pony number 17, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 18, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 19, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 20, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 21, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 22, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 23, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 24, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 25, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 26, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 27, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 28, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.107 [main] Horse - Создание Horse, имя Pony number 29, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.108 [main] Horse - Создание Horse, имя Pony number 30, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:03.108 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[DEBUG] 2025-02-17 23:17:13.522 [main] Horse - Создание Horse, имя Bucephalus, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:13.525 [main] Horse - Создание Horse, имя Ace of Spades, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:13.525 [main] Horse - Создание Horse, имя Zephyr, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:13.525 [main] Horse - Создание Horse, имя Blaze, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:13.525 [main] Horse - Создание Horse, имя Lobster, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:13.526 [main] Horse - Создание Horse, имя Pegasus, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:13.526 [main] Horse - Создание Horse, имя Cherry, скорость [2.8]
+[DEBUG] 2025-02-17 23:17:13.526 [main] Hippodrome - Создание Hippodrome, лошадей [7]
+[INFO ] 2025-02-17 23:17:13.526 [main] Main - Начало скачек. Количество участников: 7
+[INFO ] 2025-02-17 23:17:14.340 [main] Main - Окончание скачек. Победитель: Cherry
